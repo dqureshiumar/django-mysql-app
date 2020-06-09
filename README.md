@@ -2,6 +2,8 @@
 Practicing Django Features like Authentication and CMS with MySQL 
 
 # Setting up mysql for Django
+  > Run <strong>pip install mysqlclient</strong> in your Virtual Environment<br>
+  > If pip install mysqlclient doesn't works follow the below steps
   > Download 32bit or 64 bit from this website https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysqlclient <br>
   > Using command prompt or any terminal open the directory where your downloaded file is present and run pip install filename.<br>
   > Update your mysql ports in your settings.py <br>
